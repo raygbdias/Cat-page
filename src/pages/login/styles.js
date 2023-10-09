@@ -40,6 +40,11 @@ export const Title = styled.h2`
     color: #FFFFFF;
 `
 
+export const ErrorText = styled.p`
+    color: #FF0000;
+    font-size: 12px;
+`
+
 export const TitleLogin = styled.p`
     font-family:'Open Sans';
     font-style: normal;
